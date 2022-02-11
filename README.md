@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @DanAndSons
+- 👋 Hi, I’m Daniel
 - 👀 I’m interested in home automation
 - 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on interface to a EVBox wallbox
-- 📫 How to reach me via Instagram
+- 📫 You can reach me via Instagram
 
 <!---
 DanAndSons/DanAndSons is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
